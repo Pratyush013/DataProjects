@@ -1,2 +1,3 @@
-# DataProjects
-It will be collection of SQL queries
+# DataProject
+Ola Cab service Data Analysis using ( EXCEL + SQL + POWER BI)
+
